@@ -5,3 +5,7 @@ body {
 .generated {
   color: green;
 }
+
+.headerdisplay {
+  display: inline-block;
+}
